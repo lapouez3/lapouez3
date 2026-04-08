@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there ðŸ‘‹
 
-<!--
-**lapouez3-eng/lapouez3-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent software developer focused on cloud infrastructure, automation, and backend systems.
 
-Here are some ideas to get you started:
+#### What I do
+- Cloud infrastructure management and provisioning (Hetzner, Linode, DigitalOcean)
+- Server automation with Python and Bash
+- Self-hosted services â€” mail servers, monitoring, CI/CD
+- Backend APIs with Node.js and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+
+`Python` `Node.js` `Linux` `Docker` `Postfix` `Dovecot` `Nginx` `PostgreSQL` `Redis` `Puppeteer` `Bash` `Git`
+
+#### Currently working on
+- Automated cloud provisioning tools for multi-provider infrastructure
+- Self-hosted email server setup with Postfix + Dovecot
+- Lightweight monitoring and alerting for distributed systems
