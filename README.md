@@ -1,11 +1,11 @@
-### Hi there ðŸ‘‹
+### Hi there
 
 I'm an independent software developer focused on cloud infrastructure, automation, and backend systems.
 
 #### What I do
 - Cloud infrastructure management and provisioning (Hetzner, Linode, DigitalOcean)
 - Server automation with Python and Bash
-- Self-hosted services â€” mail servers, monitoring, CI/CD
+- Self-hosted services - mail servers, monitoring, CI/CD
 - Backend APIs with Node.js and Python
 
 #### Tech Stack
